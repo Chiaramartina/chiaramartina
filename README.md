@@ -11,7 +11,7 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
 
 ###
 
-<p align="left"><h2>About Me</h2><br>
+<p align="left"><b>About me</b><br>
 <ul>
   <li>🎓 MSc in Digital Humanities — University of Bologna</li>
   <li>🤖 Interested in Machine Learning, NLP & AI applications for cultural heritage</li>
