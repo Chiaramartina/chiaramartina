@@ -49,7 +49,7 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
 
 | | |
 |---|---|
-| **[📁 Projects Portfoli](https://github.com/Chiaramartina/personal__portfolio)** | Take a look at the portfolio of my projects here. |
+| **[📁 Projects Portfolio](https://github.com/Chiaramartina/personal__portfolio)** | Take a look at the portfolio of my projects here. |
 
 
 <h2 align="left">How to reach me</h2>
