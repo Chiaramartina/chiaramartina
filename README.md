@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!</h2>
 
 <p align="left">I'm Chiara, MSc student in Digital Humanities at the University of Bologna. Berlin based.<br>
-Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
+Exploring Machine Learning, NLP and AI for culture & humanities.</p>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXMxbjlnbjNldXM1enR1cXZjejl0M3RyYWpsOGt4ZjU2N3FkYmpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohfFmoUC13evrsUKc/giphy.gif"  />
 
