@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">About me<br>🎓 MSc in Digital Humanities at the University of Bologna <br>🤖 Interested in Machine Learning, NLP, and AI applications for humanities and cultural heritage<br>🎵 Song that represents me<br>🎮 Favourite game</p>
+<h2 align="left"><b>✨ About Me ✨</b></h2>
+<p align="left">
+🎓 MSc in Digital Humanities at the University of Bologna <br>
+🤖 Interested in Machine Learning, NLP, and AI applications for humanities and cultural heritage<br>
+🎵 <a href="https://aphextwin.bandcamp.com/track/aisatsana-102">Song that represents me</a><br>
+🎮 <a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/">Favourite game</a>
+</p>
 
 ###
 
