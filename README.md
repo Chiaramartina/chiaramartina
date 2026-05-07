@@ -1,16 +1,10 @@
 <h2 align="left">Hi 👋!</h2>
-
 ###
-
 <p align="left">I'm Chiara, MSc student in Digital Humanities at the University of Bologna. Berlin based.<br>
 Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
-
 ###
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXMxbjlnbjNldXM1enR1cXZjejl0M3RyYWpsOGt4ZjU2N3FkYmpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohfFmoUC13evrsUKc/giphy.gif"  />
-
 ###
-
 <p align="left"><b>About me</b><br>
 <ul>
   <li>🎓 MSc in Digital Humanities — University of Bologna</li>
@@ -18,11 +12,8 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
   <li>🎵 <a href="https://aphextwin.bandcamp.com/track/aisatsana-102">aisatsana [102] — Aphex Twin</a></li>
   <li>🎮 <a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/">Red Dead Redemption 2</a></li>
 </ul></p>
-
 ###
-
 <h2 align="left">Development Stack</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -53,9 +44,14 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
 </div>
+###
+<h2 align="left">Projects Portfolio</h2>
+
+| | |
+|---|---|
+| **[📁 Visit](YOUR_PORTFOLIO_URL)** | **Projects Portfolio** — Take a look at the portfolio of my academic projects here. |
 
 ###
-
 <h2 align="left">How to reach me</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/chiara-martina-426935401/" target="_blank">
@@ -68,7 +64,5 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
 ###
-
 ###
