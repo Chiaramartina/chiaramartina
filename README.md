@@ -71,17 +71,4 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
 
 ###
 
-<div align="left">
-
-```text
-┌──────────────────────────────────────┐
-│  🚀 Portfolio                        │
-│                                      │
-│  Selected projects & case studies    │
-│             │
-│            
-│                                      │
-│  👉 https:[//TUO-LINK-PORTFOLIO ](https://github.com/Chiaramartina/personal__portfolio/tree/main)      │
-└──────────────────────────────────────┘
-
 ###
