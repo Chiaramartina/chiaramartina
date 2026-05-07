@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Chiara — MSc student in Digital Humanities at the University of Bologna. Berlin based.<br>
+<p align="left">I'm Chiara, MSc student in Digital Humanities at the University of Bologna. Berlin based.<br>
 Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
 
 ###
@@ -11,7 +11,7 @@ Exploring Machine Learning, NLP, and AI for culture & humanities.</p>
 
 ###
 
-<p align="left">About me<br>
+<p align="left"><h2>About Me</h2><br>
 <ul>
   <li>🎓 MSc in Digital Humanities — University of Bologna</li>
   <li>🤖 Interested in Machine Learning, NLP & AI applications for cultural heritage</li>
